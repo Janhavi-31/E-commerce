@@ -7,6 +7,10 @@ import Product from "./Pages/Product";
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Cart  from './Pages/Cart';
 import LoginSignup from './Pages/LoginSignup';
+import Footer from './Components/Footer/Footer';
+import men_banner from './Components/Assets/Frontend_Assets/banner_mens.png' 
+import women_banner from './Components/Assets/Frontend_Assets/banner_women.png'
+
 
 function App() {
   return (
